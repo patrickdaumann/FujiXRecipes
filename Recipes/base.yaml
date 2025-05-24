@@ -1,4 +1,4 @@
-Recipe: Base/Vorlage
+recipe_name: Base/Vorlage
 film_simulation:
   name: Provia
   flavor: None
