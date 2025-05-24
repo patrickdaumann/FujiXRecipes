@@ -1,0 +1,28 @@
+Recipe: Base/Vorlage
+film_simulation:
+  name: Provia
+  flavor: None
+dynamic_range: Auto
+grain_effect:
+  strength: OFF
+  size: OFF
+color_chrome_effect: OFF
+color_chrome_fx_blue: OFF
+white_balance:
+  type: Auto
+  shift:
+    red: 0
+    blue: 0
+tonecurve:
+  highlight: 0
+  shadow: 0
+color: 0
+sharpness: 0
+high_iso_nr: 0
+clarity: 0
+iso:
+  mode: Auto
+  max: 6400
+exposure_compensation:
+  min: -3
+  max: +3

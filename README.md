@@ -1,2 +1,2 @@
 # FujiXRecipes
-My Fuji Y Recipes
+My Fuji X Recipes

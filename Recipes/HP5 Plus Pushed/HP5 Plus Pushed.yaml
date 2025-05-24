@@ -1,0 +1,28 @@
+Recipe: "PD HP5 Plus Pushed"
+film_simulation:
+  name: Acros
+  flavor: Std
+dynamic_range: DR200
+grain_effect:
+  strength: Strong
+  size: Large
+color_chrome_effect: OFF
+color_chrome_fx_blue: OFF
+white_balance:
+  type: Auto
+  shift:
+    red: +1
+    blue: +1
+tonecurve:
+  highlight: +3
+  shadow: +2
+color: 0
+sharpness: 0
+high_iso_nr: -2
+clarity: 0
+iso:
+  mode: Auto
+  max: 6400
+exposure_compensation:
+  min: -3
+  max: +3
